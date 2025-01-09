@@ -29,7 +29,7 @@ It was announced in Augustus 2022 and released in September 2022.
 
 ## Device picture
 
-<img src="https://fdn2.gsmarena.com/vv/pics/samsung/galaxy-a23-5g-2.jpg" width="45%"/>
+<img src="https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a236mlbearo/gallery/ar-galaxy-a23-5g-sm-a236-sm-a236mlbearo-535045455?$684_547_JPG$" width="45%"/>
 
 ## Kernel source
 
