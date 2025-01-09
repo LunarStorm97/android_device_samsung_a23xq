@@ -55,12 +55,6 @@ lunch twrp_a23xq-eng
 mka recoveryimage
 ```
 
-## Thanks to
-
-@[BlackMesa123](https://github.com/BlackMesa123) and
-@[Simon1511](https://github.com/Simon1511)
-For their work on A52 5G, which this tree is heavily build on.
-
 ## Copyright
 
 ```
