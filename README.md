@@ -1,10 +1,10 @@
-# TWRP Device Tree for Samsung Galaxy A23 5G
+## TWRP Device Tree for Samsung Galaxy A23 5G
 
 The Galaxy A23 5G (codenamed _"a23xq"_) is an upper-mid-range smartphone from Samsung.
 
 It was announced in Augustus 2022 and released in September 2022.
 
-## Device specifications
+### Device specifications
 
 |                        Feature | Specification                                                                          |
 | -----------------------------: | :------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ It was announced in Augustus 2022 and released in September 2022.
 |                    Fingerprint | EFingerprint (side-mounted)                                                            |
 |                        Sensors | Accelerometer, Gyro, Proximity (virtual),                                              |
 
-## Device picture
+### Device picture
 
 <img src="https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a236mlbearo/gallery/ar-galaxy-a23-5g-sm-a236-sm-a236mlbearo-535045455?$684_547_JPG$" width="45%"/>
 
