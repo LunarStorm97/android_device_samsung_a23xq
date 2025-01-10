@@ -37,7 +37,7 @@ DEVICE_PATH := device/samsung/a23xq
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := twrp_a23xq
 PRODUCT_DEVICE := a23xq
-PRODUCT_MODEL := SM-A236
 PRODUCT_BRAND := samsung
+PRODUCT_MODEL := SM-A236
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
